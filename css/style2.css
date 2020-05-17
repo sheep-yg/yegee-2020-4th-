@@ -1,0 +1,37 @@
+
+		h2 {color: #0975c2; margin: 30px 0px;font-size: 2.5em;}
+		.container {display:flex;padding:0px;margin:0px;}
+		.roundimg {border-radius: 50%; margin: 0px; padding:10px;}
+		.round-s{width: 200px}
+		.round-b{width: 550px;margin: auto;}
+		.box{width: 440px;height: 440px; margin: auto; margin-top: 30px;}
+
+		.leftbox {margin: 30px 70px;}
+		.bigtext {font-size: 4em}
+		.leftbox2 {margin-top:40px; margin-left: 100px}
+		.ahwk {color: black; position:relative;top: 300px;left: 550px; z-index: 100;}
+		.size30 {width:30%;}
+		.size70 {width:70%;}
+		.size50 {width:50%;}
+		.rightbox {position: relative; left: calc(45%);}
+
+		em {font-style: normal;border-bottom: 1px solid black;}
+		.midtext {font-size: 1.7em; text-align: center;}
+		.pad5 {padding: 10px;}
+		.pad-l {padding-left: 100px;}
+		.abs3{position:absolute; top:450px;left:calc(50% - 30px);}	
+		.abs4 {position: absolute; top: 1100px;left:calc(50% - 30px);}
+		h3 {font-size: 1.5em;margin-bottom: 50px;}
+
+		.link {width: 365px;}
+		.abs5 {position: absolute; top: 360px;left: calc(50% - 235px);}
+		.abs6 {position: absolute; top: 70px; left: calc(50% - 142px);}
+		.link a{display: inline-block; background-color:#b9a183;width: 150px; height: 150px;margin: 20px; text-align: center;line-height: 150px;border-radius: 50%; color: black}
+		.link a:hover {background-color:#9b7d57; color: white; transition-duration: .4s}
+
+		footer {text-align:center;}
+		a {text-decoration: none; color: black}
+		footer a:hover {color:#9b7d57; transition-duration: .3s}
+		.col{width: 800px; display:flex;margin: auto; padding: 0px 5px; position: absolute; left: calc(50% + 200px)}
+		.col-1{width: 190px; margin:0px 5px;}
+		.abs7 {position: absolute; left: 100px; top: -10px;}
